@@ -30,7 +30,7 @@ w Istebnej 2024).pdf”), oraz przez przesłanie pliku video w dowolnym formacie
 https://drive.google.com/drive/folders/1EJqUztOLNydipzvJPC8oor7zGpGyGU3w?usp=sharing
 8. Uczniowie mogą korzystać z dowolnego oprogramowania do montażu filmów na komputerze lub dowolnej
 aplikacji na urządzeniu mobilnym. Preferowane jest darmowe oprogramowanie. (można w wyszukiwarce
-sklepu z aplikacjami wpisać hasło: “video editor”)
+sklepu z aplikacjami wpisać hasło: “video editor”) Przykład: https://online-video-cutter.com/
 9. Czas trwania filmu konkursowego nie może być krótszy niż 10 sekund i nie może być dłuższy niż 30
 sekund.
 10. Uczestnicy mogą używać zarówno filmy/zdjęcia stworzone przez siebie, jak i ujęcia z przygotowanej bazie
